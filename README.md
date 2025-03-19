@@ -49,7 +49,7 @@ A MERN stack application that tracks competitive programming contests from vario
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone [<repository-url>](https://github.com/kumar102003/TLE-Eliminators.git)
 ```
 
 2. Install dependencies:
